@@ -29,7 +29,7 @@ I'm Mohamed AFSSAS a Full Stack Web Developer. I Spend most of my time coding ou
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)]
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-%23FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F9322C)](#)
 [![PHP Badge](https://img.shields.io/badge/-php-4F5B93?style=for-the-badge&labelColor=black&logo=php&logoColor=4F5B93)](#)
 <br />
