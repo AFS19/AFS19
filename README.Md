@@ -64,5 +64,5 @@ I'm a Full Stack Web Developer. I Spend most of my time coding outstanding proje
 
 
 #### 1.3.1. Bizness
-- :paperclip: [My Resume/CV](https://github.com/AFS19/AFS19/blob/main/resumes/MOHAMED%20AFSSAS%20Resume%20v3.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/AFS19/AFS19/blob/main/resumes/MOHAMED%20AFSSAS%20-CV-%20Tall%20Stack%20Developer%20-%20English.pdf)
 - :email: mohamed.afssas20@gmail.com
