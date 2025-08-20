@@ -6,8 +6,7 @@ I'm a Full Stack Web Developer. I Spend most of my time coding outstanding proje
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-Mohamed-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/afssas_mohamed)](https://twitter.com/afssas_mohamed)  [![Linkedin Badge](https://img.shields.io/badge/-Mohamed-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-afssas-04030a269/) 
-[![Mail Badge](https://img.shields.io/badge/-@afssas_mohamed-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/afssas_mohamed/) 
-[![Mail Badge](https://img.shields.io/badge/-Mohamed-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohamed.afssas20@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Mohamed-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:m.afssas22@gmail.com)
 
 
 ### 1.2. What I currently Do
