@@ -26,10 +26,11 @@ I'm a Full Stack Web Developer. I Spend most of my time coding outstanding proje
 
 #### 1.2.1. Top Technologies
 
-![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Laravel Badge](https://img.shields.io/badge/-Laravel-%23FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F9322C)
 ![PHP Badge](https://img.shields.io/badge/-php-4F5B93?style=for-the-badge&labelColor=black&logo=php&logoColor=4F5B93)
+![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+
 <br />
 
 #### 1.2.2. Top Tools
@@ -64,4 +65,4 @@ I'm a Full Stack Web Developer. I Spend most of my time coding outstanding proje
 
 #### 1.3.1. Bizness
 - :paperclip: [My Resume/CV](https://github.com/AFS19/AFS19/blob/main/resumes/MOHAMED%20AFSSAS%20-CV-%20Tall%20Stack%20Developer%20-%20English.pdf)
-- :email: mohamed.afssas20@gmail.com
+- :email: m.afssas22@gmail.com
